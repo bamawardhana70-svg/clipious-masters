@@ -1,0 +1,10 @@
+{
+  "name": "nusatv-pwa",
+  "version": "1.1.0",
+  "private": true,
+  "description": "NUSATV Indonesia live TV PWA with server-side XMLTV EPG proxy",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.3"
+  }
+}

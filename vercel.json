@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/epg.js": {
+      "maxDuration": 10
+    }
+  }
+}
